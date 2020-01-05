@@ -417,8 +417,6 @@ Wire Wire Line
 Wire Wire Line
 	7950 3000 7950 3200
 Wire Wire Line
-	8650 3150 8150 3150
-Wire Wire Line
 	8150 3150 8150 3200
 Wire Wire Line
 	8150 2500 8150 3000
@@ -1220,4 +1218,14 @@ Wire Wire Line
 	10650 5300 10850 5300
 Wire Wire Line
 	9250 5300 10350 5300
+Wire Notes Line
+	6150 4950 8100 4950
+Wire Wire Line
+	8650 3150 8150 3150
+Wire Notes Line
+	8100 3400 8100 4950
+Text Notes 6900 4150 0    50   ~ 0
+ANALOG GROUND
+Text Notes 6900 5350 0    50   ~ 0
+DIGITAL GROUND
 $EndSCHEMATC
